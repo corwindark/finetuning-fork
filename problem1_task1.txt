@@ -1,0 +1,26 @@
+Below is a customer message that asks a question about a particular customer-service topic for a bank.
+Return ONLY the output label which correctly corresponds to the given question.
+
+### Instruction:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Response:
+card_payment_not_recognised
+
+Below is a customer message that asks a question about a particular customer-service topic for a bank.
+Return ONLY the output label which correctly corresponds to the given question.
+
+### Instruction:
+Do you have a branch in Timbuktu?
+
+### Response:
+atm_support
+
+Below is a customer message that asks a question about a particular customer-service topic for a bank.
+Return ONLY the output label which correctly corresponds to the given question.
+
+### Instruction:
+I lost my card and my replacement card has not arrived.
+
+### Response:
+card_arrival
